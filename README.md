@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanbasturk&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanbasturk" /> </p>
 
+- 🌱 I’m currently learning **React, Node.js, Tailwind**
+
 - 📫 How to reach me **batuhanbasturk636@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
