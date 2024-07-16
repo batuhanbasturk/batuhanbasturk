@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan Baştürk</h1>
-<h3 align="center">A Computer Science Engineering Student from Turkey</h3>
+<h3 align="center">A Computer Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **Typescript,Next.js and Node**
 
 - 📫 How to reach me **batuhanbasturk636@gmail.com**
 
